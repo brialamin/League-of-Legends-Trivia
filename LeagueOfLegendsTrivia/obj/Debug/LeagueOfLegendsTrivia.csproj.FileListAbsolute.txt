@@ -1,0 +1,10 @@
+c:\users\brialamin\documents\visual studio 2010\Projects\LeagueOfLegendsTrivia\LeagueOfLegendsTrivia\bin\LeagueOfLegendsTrivia.dll
+c:\users\brialamin\documents\visual studio 2010\Projects\LeagueOfLegendsTrivia\LeagueOfLegendsTrivia\bin\LeagueOfLegendsTrivia.pdb
+c:\users\brialamin\documents\visual studio 2010\Projects\LeagueOfLegendsTrivia\LeagueOfLegendsTrivia\obj\Debug\LeagueOfLegendsTrivia.csprojResolveAssemblyReference.cache
+c:\users\brialamin\documents\visual studio 2010\Projects\LeagueOfLegendsTrivia\LeagueOfLegendsTrivia\obj\Debug\LeagueOfLegendsTrivia.dll
+c:\users\brialamin\documents\visual studio 2010\Projects\LeagueOfLegendsTrivia\LeagueOfLegendsTrivia\obj\Debug\LeagueOfLegendsTrivia.pdb
+C:\Users\sra28_000\Documents\Visual Studio 2010\Projects\LeagueOfLegendsTrivia\LeagueOfLegendsTrivia\bin\LeagueOfLegendsTrivia.dll
+C:\Users\sra28_000\Documents\Visual Studio 2010\Projects\LeagueOfLegendsTrivia\LeagueOfLegendsTrivia\bin\LeagueOfLegendsTrivia.pdb
+C:\Users\sra28_000\Documents\Visual Studio 2010\Projects\LeagueOfLegendsTrivia\LeagueOfLegendsTrivia\obj\Debug\LeagueOfLegendsTrivia.csprojResolveAssemblyReference.cache
+C:\Users\sra28_000\Documents\Visual Studio 2010\Projects\LeagueOfLegendsTrivia\LeagueOfLegendsTrivia\obj\Debug\LeagueOfLegendsTrivia.dll
+C:\Users\sra28_000\Documents\Visual Studio 2010\Projects\LeagueOfLegendsTrivia\LeagueOfLegendsTrivia\obj\Debug\LeagueOfLegendsTrivia.pdb
